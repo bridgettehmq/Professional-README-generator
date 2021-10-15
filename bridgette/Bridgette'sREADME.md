@@ -1,5 +1,5 @@
 
-# Bridgette's Fun README Generator
+# Bridgette's First README generator
     
 # Table of Contents
 1. [Description](#description)
@@ -10,17 +10,15 @@
 6. [License](#license)
 7. [Questions](#questions)
 ## Project Description
-* In this project, I created a README generator using node.js
+* I created a readme generator using node.js and inquirer
 ## Installation Instructions
-* First I installed inquirer the I wrote the prompts 
+* first I installed Inquirer, then I wrote the prompts and functions for the app
 ## Usage Information
-* undefined
+* This is a simple and easy-to-use readme generator
 ## Contributor Guidelines
-* I followed the guidelines found on UCSDbootcamp's GitLab page
+* I followed the guidelines from UCSD Bootcamp's GitLab page
 ## Test Instructions
-* first use command line then follow the prompts. Click on the following link for video demo : https://watch.screencastify.com/v/skFxjHx26tRox2nSMYf8
-## Test Instructions
-* undefined
+* Please watch the demo video: https://watch.screencastify.com/v/OgjNijr1gNuxYhbT2clS
 ## License
 * This application is covered under: no license
 ## Questions
