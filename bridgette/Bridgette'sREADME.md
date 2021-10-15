@@ -18,7 +18,7 @@
 ## Contributor Guidelines
 * I followed the guidelines from UCSD Bootcamp's GitLab page.
 ## Test Instructions
-* Please watch the demo video!
+* Please watch the demo video! https://watch.screencastify.com/v/3cTUUaEFC8kr4w4OiuwC
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-blue)
 <br />
