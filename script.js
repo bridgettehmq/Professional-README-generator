@@ -40,9 +40,18 @@ const fs = require("fs");
     },
     
     {
-      type: "input",
+      type: "list",
       name: "license",
-      message: "License?"
+      message: "Choose the license for this project: ",
+      choices: [
+          "GNU",
+          "Academic",
+          "The Unlicense",
+          "ISC",
+          "MIT",
+          "Mozilla",
+          "Boost Software"
+      ]
     },
     
     {
@@ -82,6 +91,8 @@ function generateREADME(data) {
 ## Test Instructions
 * ${data.instructions}
 ## License
+![badge](https://img.shields.io/badge/license-${data.license}-blue)
+<br />
 * This application is covered under: ${data.license}
 ## Questions
 * You can find my github profile here: [${data.github}](http://github.com/${data.github})
