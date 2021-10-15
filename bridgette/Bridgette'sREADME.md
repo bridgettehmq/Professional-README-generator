@@ -18,7 +18,7 @@
 ## Contributor Guidelines
 * I followed the guidelines found on UCSDbootcamp's GitLab page
 ## Test Instructions
-* first use command line then follow the prompts, watch video here : https://watch.screencastify.com/v/skFxjHx26tRox2nSMYf8
+* first use command line then follow the prompts. Click on the following link for video demo : https://watch.screencastify.com/v/skFxjHx26tRox2nSMYf8
 ## Test Instructions
 * undefined
 ## License
