@@ -81,8 +81,6 @@ function generateREADME(data) {
 * ${data.guidelines}
 ## Test Instructions
 * ${data.instructions}
-## Test Instructions
-* ${data.test}
 ## License
 * This application is covered under: ${data.license}
 ## Questions
